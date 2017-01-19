@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302586254681",
+    "firebase_url": "https://sharelocation-1f0db.firebaseio.com",
+    "project_id": "sharelocation-1f0db",
+    "storage_bucket": "sharelocation-1f0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302586254681:android:a83d70c11f1177ed",
+        "android_client_info": {
+          "package_name": "com.ptlearnpoint.www.sharelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302586254681-3teduq7kf3oprtm9tm5n0t52dj6ncug5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ptlearnpoint.www.sharelocation",
+            "certificate_hash": "08F78D67B3BA1C40B9FEB0FA1514134D74204639"
+          }
+        },
+        {
+          "client_id": "302586254681-rsee25ugu54k73eogqmvvscob51p1pff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5O0XYjkM7tPTxn8qSGIYbAuq2S0argw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302586254681-rsee25ugu54k73eogqmvvscob51p1pff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
